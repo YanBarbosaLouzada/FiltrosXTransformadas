@@ -2,7 +2,7 @@
 
 ## Parte 1: Filtro de Aguçamento
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 Entre os filtros aplicados, o **filtro de aguçamento** (ou *sharpening*) foi o mais eficaz para aprimorar a imagem. Esse filtro é projetado para realçar os detalhes da imagem, aumentando o contraste entre os pixels adjacentes e acentuando as bordas. Através desse processo, a nitidez da imagem é melhorada, tornando os contornos mais definidos e visíveis. O filtro de aguçamento demonstrou ser particularmente útil em imagens que carecem de clareza e precisão nas bordas.
 
